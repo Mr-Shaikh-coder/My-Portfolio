@@ -719,6 +719,8 @@ body.dark-theme{
 
 .projects__container .swiper-slide{
   margin-bottom: 4.5rem;
+  width: 395px !important;
+  margin-right: 24px !important;
 }
 
 .projects__container .swiper-pagination-bullets{
